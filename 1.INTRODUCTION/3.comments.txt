@@ -1,0 +1,12 @@
+Comments: Comments are used to annotate code, providing explanations or notes for developers reading the code. In Python, comments start with the hash symbol # and extend to the end of the line.
+For example, # This is a comment provides a comment explaining the code that follows.
+
+Comments are invaluable for improving code readability and documenting functionality.
+
+Keywords and Identifiers: Python has a set of reserved words, known as keywords, that cannot be used as identifiers (variable names, function names, etc.). Examples of keywords include if, else, for, while, def, and return.
+Identifiers must follow certain rules, such as starting with a letter or underscore, and can contain letters, digits, and underscores.
+
+# Example of keywords and identifiers
+# 'def' is a keyword, 'greet' is an identifier
+def greet(name):
+    print("Hello, " + name + "!")

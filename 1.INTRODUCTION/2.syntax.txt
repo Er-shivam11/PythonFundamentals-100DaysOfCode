@@ -1,0 +1,20 @@
+Syntax Basics in Python
+
+
+
+Welcome back to our Python programming journey! In this video, we're going to delve into the fundamental aspect of Python programming: syntax basics. Understanding the syntax of a programming language is crucial as it forms the foundation upon which you'll build your code.
+
+Let's start by discussing some key elements of Python syntax:
+
+Indentation: Python uses indentation to indicate block structure. This means that instead of using braces {}, like many other programming languages, Python relies on consistent indentation to define code blocks.
+When using conditionals or loops, such as if statements or for loops, the indented code underneath them is considered part of the block.
+such as :
+
+if True:
+    print("This line is indented")
+
+Statements and Expressions: In Python, statements are instructions that perform actions, while expressions are combinations of values and operators that yield results.
+For example, assigning a value to a variable (x = 5) is a statement, while performing operations like addition (2 * (x + 3)) is an expression.
+
+Variables and Assignments: Variables are used to store data values. You can assign values to variables using the assignment operator =.
+For instance, name = "Alice" assigns the value "Alice" to the variable name, and age = 30 assigns the value 30 to the variable age.
